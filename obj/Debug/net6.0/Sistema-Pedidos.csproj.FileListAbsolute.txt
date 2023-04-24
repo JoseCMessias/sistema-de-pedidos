@@ -1,0 +1,15 @@
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\bin\Debug\net6.0\Sistema-Pedidos.exe
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\bin\Debug\net6.0\Sistema-Pedidos.deps.json
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\bin\Debug\net6.0\Sistema-Pedidos.runtimeconfig.json
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\bin\Debug\net6.0\Sistema-Pedidos.dll
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\bin\Debug\net6.0\Sistema-Pedidos.pdb
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.csproj.AssemblyReference.cache
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.AssemblyInfoInputs.cache
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.AssemblyInfo.cs
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.dll
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\refint\Sistema-Pedidos.dll
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.pdb
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\Sistema-Pedidos.genruntimeconfig.cache
+C:\Users\josec\ESTUDOS\Sistema-Pedidos\obj\Debug\net6.0\ref\Sistema-Pedidos.dll
